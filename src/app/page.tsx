@@ -7,7 +7,7 @@ export default async function Home() {
   return (
    <>
     <div className="main-heading">
-      <h1>Welcome</h1>
+      <h1>Welcome ALI</h1>
       <p className="subtitle"> Lorem ipsum dolor, sit amet consectetur adipisicing elit. Tempora exercitationem optio ea est nobis libero, voluptatem sunt adipisci perspiciatis at</p>
     </div>
       <PostList post={post}/>
