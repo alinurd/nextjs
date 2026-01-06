@@ -15,6 +15,7 @@ function Header() {
           <Link href='/'>Home</Link>
           <Link href='/about'>About</Link>
           <Link href='/posts'>Post</Link>
+          <Link href='/chatbot'>Chatbot</Link>
         </div>
         <ThemeSwitcher />
       </nav>
